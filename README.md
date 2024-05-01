@@ -1,6 +1,9 @@
 # study_http_guide
 HTTP 완벽가이드 공부
 
+```
+알라딘 ebook 구매
+```
 
 ```
 목차
