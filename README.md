@@ -1,6 +1,8 @@
 # book_http_guide
 HTTP 완벽가이드 공부
 
+https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=294437345
+
 ```
 알라딘 ebook 구매
 ```
